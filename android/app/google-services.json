@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "864141173397",
+    "firebase_url": "https://cambaycricket.firebaseio.com",
+    "project_id": "cambaycricket",
+    "storage_bucket": "cambaycricket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864141173397:android:207e026037e113ddd7719c",
+        "android_client_info": {
+          "package_name": "com.cricket.cambaycricket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864141173397-0p2e53abue0uisvk3m3m2vo54b67fg8e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricket.cambaycricket",
+            "certificate_hash": "8f6c9eedeb4efbac30eaa1b467457c5115a47f44"
+          }
+        },
+        {
+          "client_id": "864141173397-123pndpfh02jqiv08kenurm6msh6l31d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricket.cambaycricket",
+            "certificate_hash": "035ccf2bbc09b52dd82e4dd41701d4191b69e9fb"
+          }
+        },
+        {
+          "client_id": "864141173397-ilq9h2af18trb8cg1j5b9d5c8j3nehrt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricket.cambaycricket",
+            "certificate_hash": "7c90e52416d6d4adb70b7e406ebd89dc8d2e3904"
+          }
+        },
+        {
+          "client_id": "864141173397-jftqtqli6kg861kqe5c637vlip7elq2r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cricket.cambaycricket",
+            "certificate_hash": "f6f61773e09b1a24e524269869906140a4c994e1"
+          }
+        },
+        {
+          "client_id": "864141173397-l5fu8d01l9dkrhd6s0qea4v1givjcss1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwfnrA14_SRelnUxwuTBfeSu8ANv5XyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864141173397-l5fu8d01l9dkrhd6s0qea4v1givjcss1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864141173397:android:f09485de3ee3d6e0d7719c",
+        "android_client_info": {
+          "package_name": "com.myfirstrnproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864141173397-l5fu8d01l9dkrhd6s0qea4v1givjcss1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmwfnrA14_SRelnUxwuTBfeSu8ANv5XyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864141173397-l5fu8d01l9dkrhd6s0qea4v1givjcss1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
