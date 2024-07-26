@@ -7,6 +7,7 @@ import Header from '../../Component/Header';
 type RootStackParamList = {
   DetailProduct: {product: any};
 };
+
 type DetailProductRouteProp = RouteProp<RootStackParamList, 'DetailProduct'>;
 
 const DetailProduct: React.FC = () => {
